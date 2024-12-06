@@ -1,13 +1,16 @@
 {
-  "NewVersionNumber": "1.1.7-test",
+  "NewVersionNumber": "1.1.8",
   "PlayStoreLink": "https://play.google.com/store/apps/details?id=com.genericcodeapps.fractioncalculator",
   "AppStoreLink": "https://www.apple.com/",
-  "UpdateNotes": [
+  "ReleaseNotes": [
     {
-      "ReleaseNote": "\u2022 Simple and easy to use interface"
+      "Note": "\u2022 Testing multiple notes"
     },
     {
-      "ReleaseNote": "\u2022 Provides dynamic tutorials teaching how to solve fractions"
+      "Note": "\u2022 Note 2"
+    },
+    {
+      "Note": "\u2022 Note 3"
     }
   ]
 }
